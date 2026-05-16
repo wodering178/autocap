@@ -1,6 +1,6 @@
 # autocap
 This script will support you to:
-- Capture many pages at the same time without going to each of them
+- Capture many pages (including login required pages) at the same time without going to each of them
 - Save/Load URLs list so that you choose the list best fit scenario without deleting or typing all the links again
 
 With those features you can:
